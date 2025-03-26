@@ -1,0 +1,7 @@
+pandas
+openai
+google-generativeai
+scikit-learn
+openpyxl
+smtplib
+email
