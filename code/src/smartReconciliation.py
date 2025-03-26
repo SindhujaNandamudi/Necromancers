@@ -8,7 +8,7 @@ import google.generativeai as genai
 from openai import OpenAI
 
 # 🔐 Hardcoded OpenAI API Key (Replace with your actual key)
-genai.configure(api_key="AIzaSyAseWxam3C3Y-XJePweJVvX_peREF2M8QM")
+genai.configure(api_key="your-api-key-here")
 
 # 📂 Load Excel file
 file_path = "reconciliation_data.xlsx"
